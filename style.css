@@ -30,4 +30,5 @@ footer {background-color: rgb(0, 0, 0);color: white;grid-area: footer;}
     overflow: hidden;
     height: 500px;
     width: auto;
+    padding: 50px;
 }
