@@ -28,4 +28,6 @@ footer {background-color: rgb(0, 0, 0);color: white;grid-area: footer;}
 .elephant {
     grid-area: elephant;
     overflow: hidden;
+    height: 500px;
+    width: auto;
 }
