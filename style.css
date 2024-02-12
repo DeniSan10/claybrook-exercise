@@ -8,11 +8,11 @@ body {
     "main main main aside"
     "footer footer footer footer" ;
 }
-header {background-color: rgb(39, 28, 28);color: white;padding: 20px;grid-area: header;}
+header {background-color: #014e2e;color: white;padding: 20px;grid-area: header;}
 
-nav {background-color: rgb(255, 0, 0);grid-area: nav;}
+nav {background-color: #013006; color: white;grid-area: nav;}
 
-main {background-color: rgb(139, 0, 0);color: white;grid-area: main; padding: 10px;}
+main {background-color: #c1d32f;color: rgb(0, 0, 0);grid-area: main; padding: 10px;}
 
 aside {background-color: rgb(255, 255, 255);grid-area: aside;}
 
